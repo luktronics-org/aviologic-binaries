@@ -17,9 +17,10 @@ Devices are discovered automatically over the local network — no manual IP con
 
 ## Supported Simulators
 
-- **X-Plane 11**
+- **X-Plane**
 - **ProSim** (Windows only)
 - **PSX**
+- Other in the pipeline also on request!
 
 ## Key Features
 
